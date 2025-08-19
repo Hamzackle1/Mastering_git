@@ -1,0 +1,1 @@
+print("Hello i m rat wrong function");
