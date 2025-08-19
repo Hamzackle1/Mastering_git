@@ -1,5 +1,5 @@
-## HEllo Meow
+## Heyo Meow
 
 - i am adding this from feature-branch
-## I love Rats
-- Wow he really does
+- Welcome to git this is coming from hamza 1
+- wassup big dawh
